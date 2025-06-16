@@ -117,6 +117,8 @@ npx wrangler deploy
 ├── wrangler.example.toml # Example Wrangler configuration
 └── vite.config.ts      # Vite configuration
 ```
+## Demo
+[Cloudflare Woker](https://react-on-worker.measmonysuon.workers.dev/)
 
 ## Contributing
 

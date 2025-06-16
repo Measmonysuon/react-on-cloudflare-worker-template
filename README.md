@@ -26,8 +26,8 @@ A modern web application built with Vite, React, and Cloudflare Workers, featuri
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Measmonysuon/vite-react-ts.git
-cd vite-react-ts
+git clone https://github.com/Measmonysuon/react-on-cloudflare-worker-template.git
+cd react-on-cloudflare-worker-template
 ```
 
 2. Install dependencies:
